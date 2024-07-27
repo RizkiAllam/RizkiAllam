@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rizki Nur'Allam, Collage student form Indonesia.
+I'm Rizki Nur'Allam, Collage student from Indonesia.
 
 - 🔭 I am currently a member of the Baparekraf Digital Talent 2024 program
   in the **Web Development** track as a **FrontEnd & BackEnd developer**.
