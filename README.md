@@ -75,18 +75,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizkiAllam/RizkiAllam/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizkiAllam/RizkiAllam/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/RizkiAllam/RizkiAllam/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
 </div>
