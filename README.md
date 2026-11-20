@@ -1,80 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Rizki%20Nur'Allam&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descSize=20&descAlignY=60&descColor=a5b4fc" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:7b2cbf,100:ff00c8&height=260&section=header&text=RIZKI%20NUR'ALLAM&fontSize=54&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=%3C%20Fullstack%20Web%20Developer%20%2F%3E&descSize=20&descAlignY=62&descColor=ffffff" alt="header" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=620&lines=Hi+there!+%F0%9F%91%8B+I'm+Rizki;Computer+Science+Graduate+(Cum+Laude);JavaScript+%26+TypeScript+Enthusiast;Frontend+%2B+Backend+Development;try+to+be+better+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=640&height=50&lines=%3E+Computer+Science+Graduate+(Cum+Laude);%3E+JavaScript+%26+TypeScript+Enthusiast;%3E+Vue+%7C+React+%7C+Node.js+%7C+Express;%3E+try+to+be+better_" alt="typing" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizkiAllam&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="views" />
-  <a href="https://www.linkedin.com/in/rizkiallam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jendralra101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.tiktok.com/@jndrl22"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.linkedin.com/in/rizkiallam"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d0221&color=7b2cbf" alt="LinkedIn" /></a>
+  <a href="mailto:jendralra101@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=ff00c8&labelColor=0d0221&color=7b2cbf" alt="Email" /></a>
+  <a href="https://www.tiktok.com/@jndrl22"><img src="https://img.shields.io/badge/TikTok-0d0221?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0221&color=7b2cbf" alt="TikTok" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RizkiAllam&label=VIEWS&color=ff00c8&style=for-the-badge&labelColor=0d0221" alt="views" />
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-<table>
-<tr>
-<td width="60%">
+## `> whoami`
 
-- 🎓 Computer Science graduate, UIN Sunan Kalijaga Yogyakarta (Cum Laude)
-- 💻 Fullstack Web Developer (1+ years experience)
-- 🔭 Ex-member of **Baparekraf Digital Talent 2024** (Web Development Track)
-- 🌱 Currently focusing on **JavaScript, TypeScript & Backend Development**
-- 💬 Ask me about **Frontend & Backend Development**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/rizkiallam)
+```js
+const rizki = {
+  name: "Rizki Nur'Allam",
+  education: "Computer Science, UIN Sunan Kalijaga (Cum Laude)",
+  role: "Fullstack Web Developer (1+ years)",
+  bootcamp: "Baparekraf Digital Talent 2024 - Web Dev Track",
+  focus: ["JavaScript", "TypeScript", "Backend Development"],
+  askMeAbout: ["Frontend", "Backend"],
+  motto: "try to be better",
+};
+```
 
-</td>
-<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=22D3EE&vCenter=true&width=300&height=90&lines=const+me+%3D+%7B;++role%3A+'Fullstack+Dev',;++stack%3A+'JS+%2F+TS',;++status%3A+'learning+%F0%9F%94%A5'%3B;%7D" alt="code typing" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+## `> cat skills.txt`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,python,nodejs,express,mysql,postgres,mongodb,tailwind,bootstrap,docker&perline=7" alt="tech stack" />
-</div>
-
-### 🎨 Design Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop&perline=4" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,python,nodejs,express,mysql,postgres,mongodb,tailwind,bootstrap,docker&perline=7&theme=dark" alt="tech stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="design" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 📊 GitHub Stats
+## `> git stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RizkiAllam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiAllam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=RizkiAllam&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiAllam&layout=compact&theme=synthwave&hide_border=true" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RizkiAllam&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkiAllam&theme=synthwave" alt="profile details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiAllam&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiAllam&bg_color=0d0221&color=ff00c8&line=00f5ff&point=ffffff&area=true&area_color=7b2cbf&hide_border=true" alt="activity graph" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RizkiAllam&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
+## `> ls projects/`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
+  <a href="https://github.com/RizkiAllam/NAMA-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RizkiAllam&repo=NAMA-REPO-1&theme=synthwave&hide_border=true" alt="project 1" /></a>
+  <a href="https://github.com/RizkiAllam/NAMA-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RizkiAllam&repo=NAMA-REPO-2&theme=synthwave&hide_border=true" alt="project 2" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b2cbf,100:0d0221&height=120&section=footer" alt="footer" />
 </div>
