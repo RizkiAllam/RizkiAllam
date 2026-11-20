@@ -19,48 +19,73 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-<h2 align="center">✨ About Me ✨</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:7c3aed,100:ec4899&height=70&section=header&text=ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="about me" />
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-00c6ff?style=flat-square&logo=codeforces&logoColor=white" alt="role" />
-  <img src="https://img.shields.io/badge/1%2B%20Years%20Experience-7c3aed?style=flat-square&logo=clockify&logoColor=white" alt="exp" />
-  <img src="https://img.shields.io/badge/CS%20Graduate-Cum%20Laude-ec4899?style=flat-square&logo=googlescholar&logoColor=white" alt="edu" />
-  <img src="https://img.shields.io/badge/Baparekraf%20Digital%20Talent-2024-f97316?style=flat-square&logo=awesomelists&logoColor=white" alt="bootcamp" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=500&color=22D3EE&background=0F172A&multiline=true&repeat=true&width=540&height=200&lines=%24+whoami;%E2%86%92+Rizki+Nur'Allam;%24+cat+education.txt;%E2%86%92+Computer+Science%2C+UIN+Sunan+Kalijaga+(Cum+Laude);%24+cat+focus.txt;%E2%86%92+JavaScript%2C+TypeScript+%26+Backend;%24+echo+%24MOTTO;%E2%86%92+try+to+be+better" alt="terminal" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-00c6ff?style=for-the-badge&logo=codeforces&logoColor=white" alt="role" />
+  <img src="https://img.shields.io/badge/1%2B%20Years%20Experience-7c3aed?style=for-the-badge&logo=clockify&logoColor=white" alt="exp" />
+  <img src="https://img.shields.io/badge/Cum%20Laude-ec4899?style=for-the-badge&logo=googlescholar&logoColor=white" alt="edu" />
+  <img src="https://img.shields.io/badge/Baparekraf%20Digital%20Talent-f97316?style=for-the-badge&logo=awesomelists&logoColor=white" alt="bootcamp" />
 </div>
 
 <br>
 
 <table align="center">
   <tr>
-    <td width="170"><b>🎓 Education</b></td>
-    <td>Computer Science, UIN Sunan Kalijaga Yogyakarta <i>(Cum Laude)</i></td>
-  </tr>
-  <tr>
-    <td><b>💻 Role</b></td>
-    <td>Fullstack Web Developer</td>
-  </tr>
-  <tr>
-    <td><b>🏆 Program</b></td>
-    <td>Ex-member of <b>Baparekraf Digital Talent 2024</b>, Web Development Track</td>
-  </tr>
-  <tr>
-    <td><b>🌱 Learning</b></td>
-    <td>JavaScript, TypeScript & Backend Development</td>
-  </tr>
-  <tr>
-    <td><b>💬 Ask me about</b></td>
-    <td>Frontend & Backend Development</td>
-  </tr>
-  <tr>
-    <td><b>📫 Reach me</b></td>
-    <td><a href="https://www.linkedin.com/in/rizkiallam">LinkedIn</a> · <a href="mailto:jendralra101@gmail.com">Email</a></td>
+    <td align="center" width="230">
+      <h2>🎓</h2>
+      <b>Education</b><br>
+      <sub>Computer Science<br>UIN Sunan Kalijaga<br><i>Cum Laude</i></sub>
+    </td>
+    <td align="center" width="230">
+      <h2>💻</h2>
+      <b>Role</b><br>
+      <sub>Fullstack Web Developer<br>1+ years experience</sub>
+    </td>
+    <td align="center" width="230">
+      <h2>🌱</h2>
+      <b>Learning</b><br>
+      <sub>JavaScript, TypeScript<br>& Backend Development</sub>
+    </td>
   </tr>
 </table>
 
 <br>
 
-> [!TIP]
-> **try to be better.** Selalu belajar sedikit lebih baik dari kemarin.
+<h3 align="center">🗺️ My Journey</h3>
+
+<table align="center">
+  <tr>
+    <td>🔵 <b>2021 – 2025</b></td>
+    <td>Computer Science, UIN Sunan Kalijaga Yogyakarta <i>(Cum Laude)</i></td>
+  </tr>
+  <tr>
+    <td>🟣 <b>2023 – 2024</b></td>
+    <td>Front-End Internship, Cataliz Indonesia</td>
+  </tr>
+  <tr>
+    <td>🩷 <b>2024</b></td>
+    <td>Baparekraf Digital Talent, Web Development Track</td>
+  </tr>
+  <tr>
+    <td>🟠 <b>Now</b></td>
+    <td>Terus belajar JavaScript, TypeScript & Backend Development</td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Ask+me+about+Frontend+%26+Backend+Development+%F0%9F%92%AC;Reach+me+via+LinkedIn+or+Email+%F0%9F%93%AB;try+to+be+better+%F0%9F%9A%80" alt="closing" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
